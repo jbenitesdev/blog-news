@@ -1,0 +1,44 @@
+.lista-news {
+    max-width: 500px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+    text-align: center;
+  }
+  
+  .lista-news article{
+    background: #fff;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  .lista-news  article span{
+    font-size: 16px;
+    color: black;
+    margin-top: 5px;
+    line-height: 24px;
+  }
+
+  .lista-news  article img{
+    width: 400px;
+  }
+  
+  .lista-news article p{
+    font-size: 16px;
+    color: black;
+    margin-top: 5px;
+    line-height: 24px;
+  }
+  .lista-news article a{
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background: none;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
